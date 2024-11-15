@@ -1,0 +1,13 @@
+{
+  "id" : "https://olkrueger.github.io/IIIF Test/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in olkrueger/IIIF-Test project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://olkrueger.github.io/IIIF Test/manifests/manifest.json",
+    "label" : "Staats- und Universitätsbibliothek Hamburg Carl von Ossietzky, Cod. theol. 1061"
+  } ]
+}
