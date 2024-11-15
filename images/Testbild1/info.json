@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 195,
+    "height" : 189
+  }, {
+    "width" : 389,
+    "height" : 378
+  }, {
+    "width" : 778,
+    "height" : 755
+  }, {
+    "width" : 1555,
+    "height" : 1509
+  }, {
+    "width" : 3110,
+    "height" : 3017
+  }, {
+    "width" : 6219,
+    "height" : 6033
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 6219,
+  "@id" : "https://olkrueger.github.io/IIIF Test/images/Testbild1",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 6033
+}
