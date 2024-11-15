@@ -1,0 +1,66 @@
+{
+  "id" : "https://olkrueger.github.io/IIIF Test/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in olkrueger/IIIF-Test project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 6219,
+    "id" : "https://olkrueger.github.io/IIIF Test/images/Testbild1/canvas/",
+    "label" : {
+      "none" : [ "Testbild1" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://olkrueger.github.io/IIIF Test/images/Testbild1/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://olkrueger.github.io/IIIF Test/images/Testbild1/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 195,
+              "height" : 189
+            }, {
+              "width" : 389,
+              "height" : 378
+            }, {
+              "width" : 778,
+              "height" : 755
+            }, {
+              "width" : 1555,
+              "height" : 1509
+            }, {
+              "width" : 3110,
+              "height" : 3017
+            }, {
+              "width" : 6219,
+              "height" : 6033
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 6219,
+            "@id" : "https://olkrueger.github.io/IIIF Test/images/Testbild1",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 6033
+          } ],
+          "format" : "image/jpeg",
+          "width" : 6219,
+          "id" : "https://olkrueger.github.io/IIIF Test/images/Testbild1/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 6033
+        },
+        "target" : "https://olkrueger.github.io/IIIF Test/images/Testbild1/canvas/"
+      } ]
+    } ],
+    "height" : 6033
+  } ]
+}
