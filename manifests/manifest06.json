@@ -1,0 +1,98 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://olkrueger.github.io/IIIF Test/manifests/manifest06.json",
+  "@type" : "sc:Manifest",
+  "label" : "Staats- und Universitätsbibliothek Hamburg Carl von Ossietzky, Cod. orient. 414",
+  "metadata" : [ {
+    "label" : [ {
+      "@language" : "de",
+      "@value" : "Titel"
+    }, {
+      "@language" : "en",
+      "@value" : "Title"
+    } ],
+    "value" : "[Ps 77,12-78,10] : Cod. orient. 414"
+  }, {
+    "label" : [ {
+      "@language" : "de",
+      "@value" : "Signatur"
+    }, {
+      "@language" : "en",
+      "@value" : "Shelfmark"
+    } ],
+    "value" : "Staats- und Universitätsbibliothek Hamburg Carl von Ossietzky, Cod. orient. 414"
+  }, {
+    "label" : [ {
+      "@language" : "de",
+      "@value" : "Datum"
+    }, {
+      "@language" : "en",
+      "@value" : "Date"
+    } ],
+    "value" : "1301–1400"
+  } ],
+  "attribution" : "Staats- und Universitätsbibliothek Hamburg",
+  "logo" : "https://www.sub.uni-hamburg.de/fileadmin/templates/images/logo-stabi.jpg",
+  "related" : {
+    "@id" : "https://resolver.sub.uni-hamburg.de/kitodo/PPN1845978269",
+    "format" : "text/html"
+  },
+  "sequences" : [ {
+    "@id" : "https://iiif.sub.uni-hamburg.de/object/PPN1845978269/sequence/PHYS_0000",
+    "@type" : "sc:Sequence",
+    "canvases" : [ {
+      "@id" : "https://iiif.sub.uni-hamburg.de/object/PPN1845978269/canvas/PHYS_0001",
+      "@type" : "sc:Canvas",
+      "label" : "1",
+      "width" : 6219,
+      "height" : 6033,
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://pic.sub.uni-hamburg.de/iiif/2/PPN1845978269%2F00000001.tif/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://pic.sub.uni-hamburg.de/iiif/2/PPN1845978269%2F00000001.tif",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 6219,
+          "height" : 6033
+        },
+        "on" : "https://iiif.sub.uni-hamburg.de/object/PPN1845978269/canvas/PHYS_0001"
+      } ]
+    }, {
+      "@id" : "https://iiif.sub.uni-hamburg.de/object/PPN1845978269/canvas/PHYS_0002",
+      "@type" : "sc:Canvas",
+      "label" : "2",
+      "width" : 6219,
+      "height" : 6033,
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://pic.sub.uni-hamburg.de/iiif/2/PPN1845978269%2F00000002.tif/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://pic.sub.uni-hamburg.de/iiif/2/PPN1845978269%2F00000002.tif",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 6219,
+          "height" : 6033
+        },
+        "on" : "https://iiif.sub.uni-hamburg.de/object/PPN1845978269/canvas/PHYS_0002"
+      } ]
+    } ]
+  } ],
+  "structures" : [ {
+    "viewingHint" : "top",
+    "@id" : "https://iiif.sub.uni-hamburg.de/object/PPN1845978269/range/LOG_0000",
+    "@type" : "sc:Range",
+    "label" : "[Ps 77,12-78,10]",
+    "canvases" : [ "https://iiif.sub.uni-hamburg.de/object/PPN1845978269/canvas/PHYS_0001", "https://iiif.sub.uni-hamburg.de/object/PPN1845978269/canvas/PHYS_0002" ]
+  } ]
+}
