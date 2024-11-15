@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://olkrueger.github.io/IIIF Test/manifests/manifest.json",
     "label" : "Staats- und Universitätsbibliothek Hamburg Carl von Ossietzky, Cod. theol. 1061"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://olkrueger.github.io/IIIF Test/manifests/manifest06.json",
+    "label" : "Staats- und Universitätsbibliothek Hamburg Carl von Ossietzky, Cod. orient. 414"
   } ]
 }
