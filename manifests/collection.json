@@ -21,5 +21,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://olkrueger.github.io/IIIF Test/manifests/manifest_test_neu.json",
     "label" : "[Click to edit label]"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://olkrueger.github.io/IIIF Test/manifests/manifest_test_neu2.json",
+    "label" : "[Click to edit label]"
   } ]
 }
