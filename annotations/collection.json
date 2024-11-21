@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://olkrueger.github.io/IIIF Test/annotations/annotations_test.json" ],
+  "@id" : "https://olkrueger.github.io/IIIF Test/annotations/collection.json",
+  "label" : "All annotations loaded in olkrueger/IIIF-Test project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
