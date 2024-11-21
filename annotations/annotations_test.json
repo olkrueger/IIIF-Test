@@ -1,0 +1,102 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "@id" : "http://journals2.sub.uni-hamburg.de/annotation/1732114072770",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-11-20T15:47:52",
+    "dcterms:modified" : "2024-11-20T15:47:52",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Bliblablu",
+      "format" : "text/html",
+      "chars" : "<p>Bliblablu</p>"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "http://d52df505-283c-4541-b893-7128614c3b21",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1608,362,402,494"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1951.07354,433.85968c-37.14041,-41.45631 -89.53297,-72.32742 -142.17942,-72.29053v0v0c-52.64645,0.03688 -98.51035,28.91631 -142.17942,72.29053c-43.66907,43.37423 -60.64269,109.46817 -58.89264,174.52479c1.75005,65.05661 22.22375,129.07589 58.89264,174.52479c36.66889,45.4489 89.53297,72.32742 142.17942,72.29053c52.64645,-0.03688 105.07529,-26.98917 142.17942,-72.29053c37.10414,-45.30137 58.88358,-108.95181 58.89264,-174.52479c0.00907,-65.57297 -21.75224,-133.06848 -58.89264,-174.52479z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_2d224284-1ead-452a-8bbd-2a7546148cc4\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "http://0e92aa9d-f679-4f72-a324-201efcb7e2ed"
+    } ],
+    "motivation" : [ "oa:commenting" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "http://journals2.sub.uni-hamburg.de/annotation/1732114094566",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-11-20T15:48:14",
+    "dcterms:modified" : "2024-11-20T15:48:14",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Blablabla",
+      "format" : "text/html",
+      "chars" : "<p>Blablabla</p>"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "http://d52df505-283c-4541-b893-7128614c3b21",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=881,424,147,459"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M881.23085,423.91041h73.46093v0h73.46093v229.70482v229.70482h-73.46093h-73.46093v-229.70482z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_4303a1d7-c5d8-487f-b968-ae4cb6437232\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "http://0e92aa9d-f679-4f72-a324-201efcb7e2ed"
+    } ],
+    "motivation" : [ "oa:commenting" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "http://journals2.sub.uni-hamburg.de/annotation/1732114137102",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-11-20T15:48:57",
+    "dcterms:modified" : "2024-11-20T15:48:57",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Green circle",
+      "format" : "text/html",
+      "chars" : "<p>Green circle</p>"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "http://d52df505-283c-4541-b893-7128614c3b21",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1326,570,52,20"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1333.65875,572.77483c4.75672,-1.65187 11.46685,-2.88197 18.2095,-2.8805v0v0c6.74265,0.00147 12.61662,1.1522 18.2095,2.8805c5.59288,1.7283 7.76676,4.36188 7.54262,6.95414c-0.22414,2.59225 -2.84629,5.14318 -7.54262,6.95414c-4.69634,1.81096 -11.46685,2.88197 -18.2095,2.8805c-6.74265,-0.00147 -13.45742,-1.07541 -18.2095,-2.8805c-4.75208,-1.80508 -7.54146,-4.34131 -7.54262,-6.95414c-0.00116,-2.61283 2.7859,-5.30227 7.54262,-6.95414z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_2bc33a6e-00f8-468a-bbab-f4b3e842500d\" fill=\"#008000\" fill-rule=\"nonzero\" stroke=\"#008000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "http://0e92aa9d-f679-4f72-a324-201efcb7e2ed"
+    } ],
+    "motivation" : [ "oa:commenting" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  } ],
+  "@id" : "https://olkrueger.github.io/IIIF Test/annotations/annotations_test.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
