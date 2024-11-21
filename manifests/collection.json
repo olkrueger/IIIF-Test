@@ -13,5 +13,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://olkrueger.github.io/IIIF Test/manifests/manifest06.json",
     "label" : "Staats- und Universitätsbibliothek Hamburg Carl von Ossietzky, Cod. orient. 414"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://olkrueger.github.io/IIIF Test/manifests/manifest_test.json",
+    "label" : "[Click to edit label]"
   } ]
 }
